@@ -238,7 +238,7 @@ const ChatUI = () => {
         <div className="relative flex flex-col items-start">
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com/ri123-ya/My-BOT"
+              href="https://github.com/ri123-ya/Apoorv_Bot"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold text-white text-lg hover:bg-neutral-700 px-3 py-1.5 rounded-md transition-colors"
